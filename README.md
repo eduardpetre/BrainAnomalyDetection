@@ -1,4 +1,4 @@
 # BrainAnomalyDetection
-Machine Learning algorithms in Python
+Machine Learning algorithms
 - CNN
 - RFC
